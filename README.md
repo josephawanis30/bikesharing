@@ -21,3 +21,5 @@ of a bike-sharing business in Des Moines.
 The data shows high activity of the bike sharing service in New York during the month of Aug-2019.  The majority of the rides were in the
 Manhattan District, and male users during the morning and evening rush hours.  It shows that the public is using alternative ways of
 transportation such as bike sharing.
+
+Link to Dashboard https://public.tableau.com/app/profile/joseph.awanis/viz/NYC_CitiBike_Challenge_16490995612310/Story1
